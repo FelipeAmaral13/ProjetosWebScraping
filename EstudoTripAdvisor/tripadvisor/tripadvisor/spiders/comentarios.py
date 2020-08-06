@@ -9,9 +9,15 @@ class ComentariosSpider(scrapy.Spider):
     def parse(self, response):
         item = TripadvisorItem()
         quadros_de_comentarios = response.xpath("//div[@class='Dq9MAugU T870kzTX LnVzGwUB']")
+
         for quadro in quadros_de_comentarios:
             item['autor_comentario'] = quadro.xpath(".//span/a[@class='ui_header_link _1r_My98y']/text()").get()
-            yield item
+         
+         
+        for comentario in quadros_de_comentarios:
+            item['comentario'] = comentario.xpath(".//div[@class='_2f_ruteS _1bona3Pu _2uD5bLZZ']/text()").get()
+        
+        yield item
 
 
-        pass
+        
