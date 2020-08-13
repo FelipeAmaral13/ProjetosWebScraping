@@ -1,0 +1,55 @@
+{
+      "Nome do curso": [
+            "Nome do Curso: CST Análise e Desenvolvimento..."
+      ],
+      "Campus": [
+            "Campus: PresencialUNG - Guarulhos",
+            "Campus: SemipresencialUNG - Guarulhos",
+            "Campus: SemipresencialUNG - Guarulhos",
+            "Campus: Educação a DistânciaUNG - Guarulhos",
+            "Campus: Educação a DistânciaUNG - Guarulhos"
+      ],
+      "Periodo": [
+            "Perido: Manhã",
+            "Perido: Noite",
+            "Perido: Noite",
+            "Perido: Noite",
+            "Perido: EAD",
+            "Perido: EAD"
+      ],
+      "Preco": [
+            "preco: R$440,29",
+            "preco: R$440,29",
+            "preco: R$278,52",
+            "preco: R$278,52",
+            "preco: R$207,79",
+            "preco: R$207,79"
+      ]
+}{
+      "Nome do curso": [
+            "Nome do Curso: CST Análise e Desenvolvimento..."
+      ],
+      "Campus": [
+            "Campus: PresencialUNG - Guarulhos",
+            "Campus: SemipresencialUNG - Guarulhos",
+            "Campus: SemipresencialUNG - Guarulhos",
+            "Campus: Educação a DistânciaUNG - Guarulhos",
+            "Campus: Educação a DistânciaUNG - Guarulhos"
+      ],
+      "Periodo": [
+            "Perido: Manhã",
+            "Perido: Noite",
+            "Perido: Noite",
+            "Perido: Noite",
+            "Perido: EAD",
+            "Perido: EAD"
+      ],
+      "Preco": [
+            "preco: R$440,29",
+            "preco: R$440,29",
+            "preco: R$278,52",
+            "preco: R$278,52",
+            "preco: R$207,79",
+            "preco: R$207,79"
+      ]
+}
