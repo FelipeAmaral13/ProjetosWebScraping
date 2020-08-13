@@ -1,0 +1,28 @@
+{
+      "Nome do curso": [
+            "Nome do Curso: "
+      ],
+      "Campus": [
+            "Campus: ",
+            "Campus: ",
+            "Campus: ",
+            "Campus: ",
+            "Campus: s"
+      ],
+      "Periodo": [
+            "Perido: Manhã",
+            "Perido: Noite",
+            "Perido: Noite",
+            "Perido: Noite",
+            "Perido: EAD",
+            "Perido: EAD"
+      ],
+      "Preco": [
+            "preco: R$,29",
+            "preco: R$,29",
+            "preco: R$,52",
+            "preco: R$,",
+            "preco: R$,79",
+            "preco: R$,79"
+      ]
+}

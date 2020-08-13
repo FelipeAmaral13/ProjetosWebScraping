@@ -21,7 +21,7 @@ binary = FirefoxBinary('C:\\Users\\felipesa\\AppData\\Local\\Mozilla Firefox\\fi
 #Browser-Robo
 web = webdriver.Firefox(firefox_binary=binary, executable_path='geckodriver.exe', capabilities=firefox_capabilities)
 #web = webdriver.PhantomJS()
-web.get('https://vestibular.ung.br/PS_Univeritas/InfoCurso.aspx?Cidade=Guarulhos&UF=SP&CursoId=85&CursoNome=An%c3%a1lise+e+Desenvolvimento+de+Sistemas')
+web.get() #----------------> Coloque aqui o site que deseja fazer o scraping
 
 #Caixa de localizacao
 time.sleep(4)
@@ -95,7 +95,7 @@ dic = {
 }
 
 
-out_file = open("UNG_info.json", "a", encoding='utf-8')  
+out_file = open("preco_info.json", "a", encoding='utf-8')  
     
 json.dump(dic, out_file, indent = 6, ensure_ascii=False)  
 out_file.close()  

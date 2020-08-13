@@ -5310,3 +5310,29 @@ JavaScript warning: https://app.shoptarget.com.br/js/reengage_legacy.js, line 1:
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1597333300860	mozrunner::runner	INFO	Running command: "C:\\Users\\felipesa\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\felipesa\\LOCALS~1\\Temp\\rust_mozprofileGFLLDs"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597333310512	Marionette	INFO	Listening on port 51619
+1597333312690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.shoptarget.com.br/js/reengage_legacy.js, line 1: unreachable code after return statement
+JavaScript warning: https://app.shoptarget.com.br/js/reengage_legacy.js, line 1: unreachable code after return statement
+1597333348398	Marionette	INFO	Stopped listening on port 51619
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597333352675	mozrunner::runner	INFO	Running command: "C:\\Users\\felipesa\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\felipesa\\LOCALS~1\\Temp\\rust_mozprofile3VgggF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597333356691	Marionette	INFO	Listening on port 56797
+1597333356796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.shoptarget.com.br/js/reengage_legacy.js, line 1: unreachable code after return statement
+JavaScript warning: https://app.shoptarget.com.br/js/reengage_legacy.js, line 1: unreachable code after return statement
+1597333391181	Marionette	INFO	Stopped listening on port 56797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
