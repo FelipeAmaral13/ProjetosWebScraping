@@ -1,0 +1,184 @@
+1604519337668	mozrunner::runner	INFO	Running command: "C:\\Users\\felipesa\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\felipesa\\LOCALS~1\\Temp\\rust_mozprofileYJOdH4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604519341127	Marionette	INFO	Listening on port 58673
+1604519341308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br/modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 587: SyntaxError: missing { before try block
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+[Parent 7356, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604519723878	Marionette	INFO	Stopped listening on port 58673
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604519731459	mozrunner::runner	INFO	Running command: "C:\\Users\\felipesa\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\felipesa\\LOCALS~1\\Temp\\rust_mozprofileS3ERxD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604519735265	Marionette	INFO	Listening on port 59251
+1604519735606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br/modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 587: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: "getUsedFontFaces@resource://devtools/server/actors/styles.js:363:24\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:363:24)", "resource://devtools/shared/protocol/Front.js", 341))
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: resource://devtools/server/actors/styles.js, line 566: TypeError: node is null
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:566:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:566:5)", "resource://devtools/shared/protocol/Front.js", 341))
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: "getUsedFontFaces@resource://devtools/server/actors/styles.js:363:24\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:363:24)", "resource://devtools/shared/protocol/Front.js", 341))
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+[Parent 5648, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604519950722	Marionette	INFO	Stopped listening on port 59251
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ings file exists, new profile?" (new Error("", "(unknown module)"))
+1604519950961	Marionette	INFO	Listening on port 59445
+1604519951270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br/modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 587: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+[Parent 13564, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604520041518	Marionette	INFO	Stopped listening on port 59445
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604520052519	mozrunner::runner	INFO	Running command: "C:\\Users\\felipesa\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\felipesa\\LOCALS~1\\Temp\\rust_mozprofileCs5OT1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604520055577	Marionette	INFO	Listening on port 59589
+1604520055695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br/modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 587: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+[Parent 15256, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604520293573	Marionette	INFO	Stopped listening on port 59589
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604520300150	mozrunner::runner	INFO	Running command: "C:\\Users\\felipesa\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\felipesa\\LOCALS~1\\Temp\\rust_mozprofileClIZ1c"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604520303454	Marionette	INFO	Listening on port 59872
+1604520303792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br/modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 587: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+1604522605983	Marionette	INFO	Stopped listening on port 59872
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604522611392	mozrunner::runner	INFO	Running command: "C:\\Users\\felipesa\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\felipesa\\LOCALS~1\\Temp\\rust_mozprofile0ZzGFc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604522614681	Marionette	INFO	Listening on port 58150
+1604522615036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br/modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 587: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+[Parent 12216, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604522692050	Marionette	INFO	Stopped listening on port 58150
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604522696758	mozrunner::runner	INFO	Running command: "C:\\Users\\felipesa\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\felipesa\\LOCALS~1\\Temp\\rust_mozprofile2xdgIb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604522699826	Marionette	INFO	Listening on port 58325
+1604522699922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br/modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 587: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript warning: https://emec.mec.gov.br/plugins/jquery/js/jquery.js, line 2425: unreachable code after return statement
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+JavaScript error: https://emec.mec.gov.br//modulos/visao_comum/php/login/comum_login.php?691ba69561e311dd66adaae89947c631=YWJhX21hbnRpZGE=, line 594: SyntaxError: missing { before try block
+1604522731457	Marionette	INFO	Stopped listening on port 58325
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
