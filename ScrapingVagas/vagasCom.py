@@ -35,11 +35,13 @@ driver.get('https://www.vagas.com.br/')
 # Instanciar a classe que irá esperar até 5 segundos
 wait = WebDriverWait(driver, 5)
 
+
 cargo = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, '#nova-home-search')))
 cargo = driver.find_element_by_css_selector('#nova-home-search').click()
 cargo = driver.find_element_by_css_selector('#nova-home-search').send_keys(json_cargo)
+cargo = driver.find_element_by_css_selector('#nova-home-search').send_keys(Keys.RETURN)
 
-busca = driver.find_element_by_css_selector('#header > div.nova-home-header > div.nova-home-search-container > div > div.search-field > i').click()
+#busca = driver.find_element_by_css_selector('#header > div.nova-home-header > div.nova-home-search-container > div > div.search-field > i').click()
 
 time.sleep(1)
 vagas1 = driver.find_elements_by_xpath('//*[@id="todasVagas"]/ul/li')
@@ -60,7 +62,8 @@ for i in range(1, len(vagas1)):
         data.append(driver.find_element_by_xpath(f'//*[@id="todasVagas"]/ul/li[{i}]/footer/span[2]').text)
     except :
         data.append(driver.find_element_by_xpath(f'//*[@id="todasVagas"]/ul/li[{i}]/footer/span').text)
-    link.append(driver.find_element_by_xpath(f'//*[@id="todasVagas"]/ul/li[{i}]/header/div[2]/h2/a').get_attribute('href'))
+    
+    .append(driver.find_element_by_xpath(f'//*[@id="todasVagas"]/ul/li[{i}]/header/div[2]/h2/a').get_attribute('href'))
 
 driver.close()
 
